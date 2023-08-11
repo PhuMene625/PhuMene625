@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### À propos de moi
 - 🏷️ Prénom: Éric
-- 🧍 Genre: Masculin
-- ❗️ Pronoms: Il/Lui (de préférence) - Tout pronoms
+- 🧍 Genre: Masculin/Féminin (Genderfluid)
+- ❗️ Pronoms: Tout pronoms
 - ⏳ Âge: Vieux :)
 - 🛣️ Orientation Sexuelle: Hétéro
 - 🏘️ Montpellier, France
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ❤️‍🔥 J'aime quelqu'une. Qui est-ce? C'est un secret :)
 
 ### Je suis...
-- 🛠️ Modérateur de communautés comme [Paris Metro Driver](https://discord.gg/pmd)
+- 🛠️ Modérateur de communautés comme [Paris Metro Driver Labs](https://discord.gg/pmd)
 - 🚇 Passionné des transports en communs (surtout les Trams, Métros et TGV)
 - 🖥 Passionné de l'informatique
 - 👨‍💻 Capable de développer sans forcément y être à l'aise mais j'apprends chaque jours
