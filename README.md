@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### À propos de moi
 - 🏷️ Prénom: Éric
 - 🧍 Genre: Masculin
-- ❗️ Pronoms: Tout pronoms
+- ❗️ Pronoms: Il/Lui
 - ⏳ Âge: Vieux :)
 - 🛣️ Orientation Sexuelle: Hétéro
 - 🏘️ Montpellier, France
