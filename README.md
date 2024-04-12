@@ -17,9 +17,18 @@ Here are some ideas to get you started:
  \ \  \     \ \  \\\  \\ \  \\\  \\ \  \     \ \  \\\  \\ \  \\\  \  
   \ \  \____ \ \  \\\  \\ \  \\\  \\ \  \____ \ \  \\\  \\ \  \\\  \ 
    \ \_______\\ \_______\\ \_______\\ \_______\\ \_______\\ \_______\
-    \|_______| \|_______| \|_______| \|_______| \|_______| \|_______|
+    \|_______| \|_______| \|_______| \|_______| \|_______| \|_______| 
                                                                      -->
-                                                                     
+  ___    ___ ________     
+ |\  \  /  /|\   __  \    
+ \ \  \/  / | \  \|\  \   
+  \ \    / / \ \  \\\  \  
+   \/  /  /   \ \  \\\  \ 
+ __/  / /      \ \_______\
+|\___/ /        \|_______|
+\|___|/                   
+                          
+                          
 # Yo, c'est PhuMene😄
 
 ### À propos de moi
@@ -29,10 +38,8 @@ Here are some ideas to get you started:
 - ⏳ Âge: Vieux :)
 - 🛣️ Orientation Sexuelle: Hétéro
 - 🏘️ Montpellier, France
-- ❤️‍🔥 En couple
 
 ### Je suis...
-- 🛠️ Modérateur de communautés
 - 🚇 Passionné des transports en communs (surtout les Trams, Métros et TGV)
 - 🖥 Passionné de l'informatique
 - 👨‍💻 Capable de développer sans forcément y être à l'aise mais j'apprends vite chaque jours
