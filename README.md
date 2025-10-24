@@ -22,19 +22,16 @@ Here are some ideas to get you started:
                          
                                                                                                              
                                                                                                            
-# Yo, c'est PhuMene😄
+# PhuMene? C'est moi! 😄
 
 ### À propos de moi
-- 🏷️ Prénom: Éric
 - 🧍 Genre: Masculin
 - ❗️ Pronoms: Il/Lui
-- ⏳ Âge: Vieux :)
-- 🛣️ Orientation Sexuelle: Hétéro
-- 🏘️ Montpellier, France
+- ⏳ Âge: Vieux
+- 🏘️ Lieu: Occitanie, France
 
 ### Je suis...
-- 🚇 Passionné des transports en communs (surtout les Trams, Métros et TGV)
-- 🖥 Passionné de l'informatique
-- 👨‍💻 Capable de développer sans forcément y être à l'aise mais j'apprends vite chaque jours
+- 🚇 Passionné des transports en communs (notamment le ferroviaire et l'aviation).
+- 🖥 Passionné du monde numérique qui nous entoure.
+- 👨‍💻 Dans le Developpement Web et j'en apprends avec le temps.
 - 🎵 Fan de phonk, indie, rock, pop. Un peu de tout en fait.
-- 💬 Actif sur Discord depuis 2019
