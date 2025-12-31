@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ❗️ Pronoms: Il/Lui
 - ⏳ Âge: Vieux
 - 🏘️ Lieu: Occitanie, France
-
+![Arch Linux](arch-linux-svgrepo-com.svg)
 ### Je suis...
 - 🚇 Passionné des transports en communs (notamment le ferroviaire et l'aviation).
 - 🖥 Passionné du monde numérique qui nous entoure.
